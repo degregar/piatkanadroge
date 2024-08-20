@@ -28,6 +28,8 @@
   },
 
   "contactinfo": {
-    "email": "michal@kukla.tech"
+    "address": "",
+    "email": "michal@kukla.tech",
+    "phone": ""
   }
 }
