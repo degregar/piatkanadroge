@@ -1,11 +1,12 @@
 {
-  "name": "bookworm-light-astro",
+  "name": "piatkanadroge",
   "version": "2.0.1",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "deploy": "npm run build && npx firebase use piatkanadroge && npx firebase deploy --only hosting"
   },
   "dependencies": {
     "@astrojs/mdx": "^3.0.1",

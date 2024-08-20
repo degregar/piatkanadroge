@@ -1,23 +1,16 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
-image: "/images/author.png"
+title: O blogu Piątka na Drogę
+meta_title: O blogu
 draft: false
-
-what_i_do:
-  title: "What I Do"
-  items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
+created: 2024-08-20T15:11
+updated: 2024-08-20T19:43
 ---
+Zaczęło się od trekingu wokół Annapurny. Opisywaliśmy wtedy nasze podróże i przygody, aby dać znać naszym rodzicom co u nas.
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Gromadzenie na bieżąco szczegółów pozwala po latach odtworzyć żywe wspomnienia z tych 5 miesięcy w Azji.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Potem urodziła nam się trójka dzieci. (Nie od razu.) Teraz, kiedy już podrośli i są w wieku wczesnoszkolnym, kontynuujemy podróże - małe i duże.
+
+Piszemy, aby utrwalić najważniejsze lekcje i być może zainspirować innych do samodzielnego odkrywania swojej własnej drogi.
+
+Piątka ✋ na Drogę
