@@ -4,6 +4,7 @@ import Share from "@/components/Share.astro";
 import Album from "@/components/Album.astro";
 import SimilarPosts from "@/components/SimilarPosts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
+import { getAlbumImage } from "@/lib/albums.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similerItems from "@/lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
@@ -16,6 +17,8 @@ const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
 const { title, description, authors, categories, image, date, tags, album } =
   post.data;
+
+const albumImage = getAlbumImage(album, image);
 ---
 
 <section class="section">
@@ -80,9 +83,9 @@ const { title, description, authors, categories, image, date, tags, album } =
 
       <div class="col-12 mt-8 mb-2">
         {
-          image && (
+          albumImage && (
             <Image
-              src={image}
+              src={albumImage}
               height={500}
               width={1000}
               alt={title}

@@ -13,7 +13,9 @@ authors:
   - Kasia
 draft: false
 created: 2013-10-11T15:11
-updated: 2024-08-21T17:51
+updated: 2024-08-21T22:29
+album: treking-dzien-0
+image: /albums/treking-dzien-0/IMG_1903.JPG
 ---
 Podanie o wizy złożone, po decyzję mamy zgłosić się 17.10 a dzień później wiza powinna być gotowa do obioru. Tridev zapewnia, że na 100% dostaniemy, bo w Kathmandu wszystkim przyznają.
 
