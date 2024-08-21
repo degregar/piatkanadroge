@@ -8,7 +8,14 @@ social:
   instagram: https://www.instagram.com/michalkukla.pl
   linkedin: https://www.linkedin.com/in/kukla-michal
 created: 2024-08-20T15:11
-updated: 2024-08-21T19:02
+updated: 2024-08-21T19:21
 ---
+Programista, przedsiębiorca, konsultant, pisarz, buddysta. Nie cierpi koperku. Mówią, że niby zdrowe zielsko, ale woli zamiast tego trenować ju jitsu, jeździć na rowerze i codziennie spacerować (najlepiej po górach).
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Dobrze znosi ciepło (dopóki nie straci cierpliwości).
+
+Ulubiona pora roku: lato, wczesna jesień, głęboka zima, późna wiosna (w tej kolejności).
+
+Ulubiony kolor: zielono-niebiesko-brązowy (czyli zaokienno-górzysty).
+
+Używki: Milka Daim.

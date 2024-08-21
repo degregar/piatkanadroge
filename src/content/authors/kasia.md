@@ -3,11 +3,15 @@ title: Kasia
 image: /images/authors/kasia.png
 description: this is meta description
 social:
-  facebook: https://www.facebook.com/
-  twitter: https://www.twitter.com/
-  instagram: https://www.instagram.com/
+  facebook: https://www.facebook.com/kasia.kukla2
 created: 2024-08-20T15:11
-updated: 2024-08-21T18:40
+updated: 2024-08-21T19:40
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Psycholog-to-be. Uwielbia seriale kostiumowe i dla nastolatków. Klasyczny maven: jak ma coś kupić, to przegrzebie rynek tak, że znajdzie wszystkie możliwe zniżki, triki i najlepsze opcje. (Nawet te, o których nie wiedzą sami sprzedawcy.)
+
+Potrafi każdą potrawę ukryć pod grubą warstwą koperku, czym skutecznie odstrasza od stołu wampiry czy innego męża. Na szczęście robi to tylko sobie. 
+
+Jej curry z hinduskimi przyprawami i chlebkami naan jest obiektem pożądania wszystkich domowników. Nie wiadomo jak jej się to udaje, bo w jej przepisach figuruje tylko miara "na oko" 🤔
+
+Gdy nie biega półmaratonów po górach, to zatapia się w powieściach obyczajowych.
