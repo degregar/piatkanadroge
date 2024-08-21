@@ -40,7 +40,7 @@ const { className, posts, fluid } = Astro.props;
               )
               .map((author) => (
                 <a
-                  href={`/authors/${slugify(author.data.title)}`}
+                  href={`/authors/${slugify(author.slug)}`}
                   class="flex items-center hover:text-primary font-medium"
                 >
                   {author.data.image && (
