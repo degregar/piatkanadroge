@@ -1,0 +1,47 @@
+---
+import { Image } from "astro:assets";
+import SimpleGallery from './SimpleGallery.jsx';
+import { ImageMetadata } from "astro";
+
+const { album } = Astro.props;
+
+export async function getAlbumImages(albumId: string) {
+  let images = import.meta.glob<{ default: ImageMetadata }>(
+    "/src/content/albums/**/*.{jpeg,jpg,png,JPG,JPEG,PNG}",
+    { eager: true }
+  );
+
+  // Resolved images are now directly available without the need to resolve promises
+  const resolvedImages = Object.values(images).map((mod) => mod.default);
+
+  resolvedImages.sort(() => Math.random() - 0.5);
+  return resolvedImages;
+}
+
+const images = await getAlbumImages(album);
+
+---
+
+<div style="display:none;">
+  {images.map((image, index) => (
+    <Image
+      key={index}
+      src={image}
+      alt={`Image ${index}`}
+      format={'avif'}
+      quality={50}
+      class="hidden"
+    />
+  ))}
+</div>
+
+<SimpleGallery
+  galleryID={album}
+  images={images.map((image) => ({
+    largeURL: image.src,
+    thumbnailURL: image.src,
+    width: image.width,
+    height: image.height,
+  }))}
+  client:load
+/>

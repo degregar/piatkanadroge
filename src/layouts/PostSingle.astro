@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import Share from "@/components/Share.astro";
+import Album from "@/components/Album.astro";
 import SimilarPosts from "@/components/SimilarPosts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
@@ -13,7 +14,7 @@ const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
-const { title, description, authors, categories, image, date, tags } =
+const { title, description, authors, categories, image, date, tags, album } =
   post.data;
 ---
 
@@ -29,7 +30,7 @@ const { title, description, authors, categories, image, date, tags } =
                 .filter((author) =>
                   authors
                     .map((author: string) => slugify(author))
-                    .includes(slugify(author.data.title)),
+                    .includes(slugify(author.data.title))
                 )
                 .map((author, i) => (
                   <a
@@ -94,6 +95,10 @@ const { title, description, authors, categories, image, date, tags } =
       <div class="md:col-10">
         <div class="content mb-16 text-left">
           <Content />
+
+          {album && (
+            <Album album={album} />
+          )}
         </div>
         <div class="flex flex-wrap items-center justify-between">
           <ul class="mr-4 mb-4 space-x-3">
@@ -125,11 +130,11 @@ const { title, description, authors, categories, image, date, tags } =
 <!-- similar posts -->
 {
   similarPosts.length > 0 && (
-    <section class="section pt-0">
-      <div class="container">
-        <h2 class="mb-8 text-center h3">Podobne wpisy</h2>
-        <SimilarPosts posts={similarPosts.slice(0, 3)} />
-      </div>
-    </section>
-  )
-}
+  <section class="section pt-0">
+    <div class="container">
+      <h2 class="mb-8 text-center h3">Podobne wpisy</h2>
+      <SimilarPosts posts={similarPosts.slice(0, 3)} />
+    </div>
+  </section>
+    )
+  }
