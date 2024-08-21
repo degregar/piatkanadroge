@@ -1,14 +1,19 @@
 ---
 title: Ruszamy do Azji!
-description: meta description
+description: Relacja z podróży do Azji, podczas której Kasia i Michał wyruszają na wyprawę do Himalajów, planując przejście trasy wokół Annapurny i dalszą podróż przez Nepal i Indie, z możliwym przystankiem w Bangkoku. Przygotowania, plany i niewiadome przed startem tej niezwykłej przygody.
 date: 2013-09-29
 categories:
   - Azja 13/14
+tags:
+  - Bihar
+  - Himalaje
+  - Nepal
+  - Indie
 authors:
   - Kasia
 draft: false
 created: 2013-09-29T15:11
-updated: 2024-08-20T15:54
+updated: 2024-08-21T17:41
 ---
 Mniej więcej rok temu, wylegując się w ciepłym łóżeczku, zadałam Michałowi pytanie:
 
