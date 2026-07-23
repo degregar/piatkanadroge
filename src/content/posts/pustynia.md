@@ -14,16 +14,24 @@ authors:
 draft: false
 created: 2013-11-25T15:11
 updated: 2024-08-21T18:06
+album: pustynia
+image: /albums/pustynia/0705.jpg
 ---
 Wschód słońca perfekcyjny! Wystarczyło otworzyć oczy i podziwiać – nasze pustynne lóze zostało rozstawione w idealnym miejscu:)
 
+![Poranek na pustynnym łóżku – wystarczyło otworzyć oczy, żeby podziwiać budzące się wydmy](../albums/pustynia/0733.jpg)
+
 Wbrew pozorom na pustyni jest mnóstwo życia. Ogromne, czarne chrząszcze, gryzonie, ptaki, camele, gazele, psy, kozy, krowy, mrówki, muchy, skaczące pająki no i oczywiście pustynna ludność.
+
+![Wbrew pozorom życia tu mnóstwo – ptaki i chrząszcz zaglądają nam prosto do śniadaniowego talerza](../albums/pustynia/0762.jpg)
 
 Mieszkańcy okolicznych wiosek, rozsypanych po rzadko zalesionym terenie co kilkanaście kilometrów, posługują się tutaj pustynnym językiem. Hindi znają, ale w różnym stopniu, podobnie jak angielski. W Jaisalmerze jest im za głośno i twierdzą, że mieszkańcy tego miasta dobrze wiedzą, kiedy ktoś z pustyni ich odwiedza i ich oszukują. Zupełnie jak nas!
 
 Ludzie tutaj rozmawiają ze sobą dużo, ale nie bardzo wiemy o czym. Pojawiają się znikąd i odchodzą donikąd.
 
 Wokół pełno wiatraków prądotwórczych, całe farmy elektrowni wiatrowych ciągnące się od Jaisalmeru dziesiątkami kilometrów. Zostały wybudowane przez żołnierzy, którzy urzędują tutaj z racji niedaleko wytyczonej granicy z Pakistanem.
+
+![Farmy elektrowni wiatrowych ciągnące się od Jaisalmeru dziesiątkami kilometrów](../albums/pustynia/0689.jpg)
 
 Ostre krzewy wbijają się boleśnie w skórę nóg i dłoni. Ukrywają się w piaszczystej drodze, sierści zwierząt, kocach, siodłach, plecakach i gdzie tylko uda im się dostać.
 
@@ -38,6 +46,8 @@ W zwiedzanych przez nas wioskach dzieci oblatują nas jak muchy żebrząc o rupi
 Zatoczyliśmy dzisiaj kolejne kółko. Po napojeniu cameli (ostatni raz przedwczoraj tuż po starcie) w water station (kilka studni głębokich na 15-25 m) jemy lunch pod rozłożystym drzewem. Większość tutejszych drzew jest rozłożysta i niemal idealnie równo przycięta od dołu. Obserwacja tego zjawiska przyszła wraz z olśnieniem, gdy zobaczyłem wielbłądy wyciągające grube szyje w poszukiwaniu zielonych listków.
 
 Spędzamy na wielbłądach ok 2-4h dziennie. Niby miało być 5h, jak to różne firmy opowiadały, ale jazda jest nadal bolesna, więc w sumie lepiej, że nie jeździmy tak długo.
+
+![Na grzbiecie wielbłąda spędzaliśmy 2–4 godziny dziennie – jazda nadal bolesna](../albums/pustynia/0813.jpg)
 
 Dziś kłusowaliśmy kilka razy, gdy mieliśmy trochę równego terenu. Wrażenia podobne jak podczas jazdy konnej, ale nijak nie mogę złapać rytmu. Trochę nam wywraca trzewia.
 

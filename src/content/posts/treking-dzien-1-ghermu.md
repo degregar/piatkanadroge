@@ -14,9 +14,17 @@ authors:
 draft: false
 created: 2013-10-12T15:11
 updated: 2024-08-21T17:52
+album: treking-dzien-1-ghermu
+image: /albums/treking-dzien-1-ghermu/IMG_1929.JPG
 ---
 Pierwszy dzień treku za nami! Gorąco było niesamowicie, tropikalny upał lał się z nieba, a z nas strumieniami lał się pot. Widoki wynagradzały wszystkie trudy. Pierwszy nocleg w Ghermu. Mamy przyjemną dwójkę, a co najważniejsze – prysznic! Oj, cudnie było się wykąpać i wyprać ręcznik, który zaczął już nieco cuchnąć. Dopiero dziś mamy warunki, żeby cokolwiek poprać i wysuszyć. Ostatecznie doschnie przymocowane do plecaka.
 
+![Kasia na wiszącym moście nad rzeką w drodze do Ghermu](../albums/treking-dzien-1-ghermu/IMG_1939.JPG)
+
 Testujemy tabletki z chlorem. Woda smakuje, jak dawna polska kranówa. Nie jest tragicznie, obawiałam się, że będzie dużo gorzej. Michał kręci nosem, że tak to smakowała kranówa na Śląsku.
 
+![Bujne, zielone tarasy pól ryżowych na górskich zboczach](../albums/treking-dzien-1-ghermu/IMG_1951.JPG)
+
 Chyba trochę przyspieszymy na początku, żeby mieć więcej czasu na wyższych wysokościach. Być może uda nam się zyskać dodatkowy dzień i podejść pod jezioro Tilicho.
+
+![Widok na dolinę rzeki spod rozłożystego drzewa](../albums/treking-dzien-1-ghermu/IMG_1954.JPG)

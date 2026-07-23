@@ -14,6 +14,8 @@ authors:
 draft: false
 created: 2013-11-01T15:11
 updated: 2024-08-21T18:17
+album: welcome-to-india
+image: /albums/welcome-to-india/IMG_2429.JPG
 ---
 Raxaul po hinduskiej stronie jest równie paskudne, jak jego nepalski odpowiednik. Urzędnik gładko załatwia kwestie pieczątki wyjazdowej z Nepalu. W hinduskim biurze dostajemy do wypełnienia karty imigracyjne, po czym jesteśmy skrupulatnie wpisywani do rozlatującej się księgi. Pada pytanie o wykonywany zawód. Michał mówi computer programmer, ja upieram się przy unemployed. Panu to bardzo nie pasuje. Kręci głową i wertuje księgę w poszukiwaniu podobnego do mnie przypadku.  
 – Student?  

@@ -2,20 +2,35 @@
 import { ImageMetadata } from "astro";
 
 export async function getAlbumImages(albumId: string) {
-  let images = import.meta.glob<{ default: ImageMetadata }>(
+  if (!albumId) return [];
+
+  const images = import.meta.glob<{ default: ImageMetadata }>(
     "/src/content/albums/**/*.{jpeg,jpg,png,JPG,JPEG,PNG}",
     { eager: true }
   );
 
-  // Resolved images are now directly available without the need to resolve promises
-  const resolvedImages = Object.values(images).map((mod) => mod.default);
+  const resolvedImages = Object.entries(images)
+    .filter(([path]) => path.includes(`/albums/${albumId}/`))
+    .map(([, mod]) => mod.default);
 
   resolvedImages.sort(() => Math.random() - 0.5);
   return resolvedImages;
 }
 
 export async function getAlbumImage(albumId: string, file: string) {
-  const images = await getAlbumImages(albumId);
-  return images.find((image) => image.src.includes(file));
+  if (!albumId || !file) return undefined;
+
+  const basename = file.split("/").pop();
+
+  const images = import.meta.glob<{ default: ImageMetadata }>(
+    "/src/content/albums/**/*.{jpeg,jpg,png,JPG,JPEG,PNG}",
+    { eager: true }
+  );
+
+  const entry = Object.entries(images).find(
+    ([path]) => path.includes(`/albums/${albumId}/`) && path.endsWith(`/${basename}`)
+  );
+
+  return entry?.[1].default;
 }
 ---

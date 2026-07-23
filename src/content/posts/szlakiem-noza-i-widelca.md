@@ -15,10 +15,14 @@ authors:
 draft: false
 created: 2013-11-03T15:11
 updated: 2024-08-21T18:11
+album: szlakiem-noza-i-widelca
+image: /albums/szlakiem-noza-i-widelca/IMG_2452.JPG
 ---
 Lassi, słodzony i zimny jogurt, to najlepszy deser, jaki hindusi mogli wymyślić dla swojej pikantnej kuchni. Napój super łagodzi ogień płonący w ustach po niemal każdym posiłku. Hinduska kuchnia podbija nasze serca, kojąc zmęczenie absurdalną ilością i natężeniem klaksonów (najgorsze są te na wyposażeniu autorikshaw i w wielu motorach).
 
 Z każdej knajpki wychodzimy przejedzeni i obiecujemy sobie, że już nigdy tyle nie zamówimy – póki co, rozsądek swoje, ale silna wola zwycięża 🙂
+
+![Zestaw przypraw i ziół podawany po posiłku – na odświeżenie i ukojenie pikantnego ognia w ustach](../albums/szlakiem-noza-i-widelca/IMG_2453.JPG)
 
 Michał napalił się na naukę hindi (zaczynając od alfabetu dewanagari) – to przydatna sztuka, która znacznie ułatwia poruszanie się po dworcach kolejowych i ich rozkładach.
 
@@ -32,6 +36,8 @@ Nasze początki, pomimo nepalskiego przygotowania, były trudne. Przygraniczne R
 
 Gdziekolwiek się nie pojawimy, wzbudzamy powszechne zainteresowanie. Dopada nas zewsząd „hello, my friend” i „where are you from”, główne wstępy do dalszej konwersacji. Riksiarze korzystają jeszcze z „where are you going” i tych zbywamy milczeniem. To narazie najskuteczniejsza metoda, żeby się od nich opędzić. W pociągach ludzie starają się nam pomóc jak potrafią, szukając wolnego miejsca do siedzenia w zatłoczonych przedziałach, martwią się o nasze bezpieczeństwo (Bihar to najbiedniejszy ze stanów i zdarzają się tutaj rabunki pociągów i autobusów) i o to, jak poradzimy sobie na kolejnej stacji.
 
+![Nocna przesiadka na jednym z biharskich dworców kolejowych, gdzie pasażerowie zawsze chętnie służyli nam pomocą](../albums/szlakiem-noza-i-widelca/IMG_2469.JPG)
+
 Spotkaliśmy m.in. bardzo wykształconego nauczyciela nauk socjalnych, który od dziecka interesował się Polską, a byliśmy pierwszymi Polakami, których spotkał w swoim życiu, pomimo kilkuletniej pracy w hotelu w Agrze. Spędzamy więc długie pociągowe godziny (7h z okładem na odcinku 130 km), rozmawiając o tym jak żyje się w Indiach a jak w Polsce, o najnowszej historii świata, II wojnie światowej, polityce USA i Chin, Izraelu i napiętych relacjach Indii z Pakistanem. To, co bardzo pozytywnie zaskakuje, to fakt, że większość z Hindusów (w tym nastolatkowie) wie, gdzie leży Polska, a część rezolutnie upewnia się, że Warszawa, to nasza stolica.
 
 Wybucham śmiechem, bo właśnie przez podłogę knajpki, w której siedzimy, spod jednej lodówki pod drugą przemknęła mysz, potykając się komicznie o klapek na swojej drodze.  
@@ -41,4 +47,8 @@ Nie da się ukryć, że jakiekolwiek standardy higieny w Indiach mocno odbiegaj�
 
 Wczoraj spacerowaliśmy od jednego klasztoru, do drugiego. W Bodhgaya swoje oddziały mają niemal wszystkie buddyjskie kraje. Jest więc klasztor nepalski, tybetański, tajski, chiński, królestwa Bhutanu, wietnamski. Na nas największe wrażenie robi klasztor tajski, swoim wystrojem znacznie odbiegający od ornamentyki, z którą mieliśmy do czynienia do tej pory tu i w Nepalu.
 
+![Klasztor tajski w Bodhgaya – to on zrobił na nas największe wrażenie](../albums/szlakiem-noza-i-widelca/IMG_2450.JPG)
+
 Odwiedzamy też Mahabodhi – świątynię powstałą w miejscu oświecenia Buddy. Ciekawą historię ma samo drzewo. Żona Ashoki, założyciela świątyni i wielkiego imperatora Indii, nie znosiła rośliny, więc zatruła jej korzenie. Zanim drzewo uschło córka Ashoki uratowała jego nasiona i wywiozła je na Sri Lankę. Stamtąd odszczepka drzewa powróciła na swoje pierwotne miejsce.
+
+![Mahabodhi – świątynia wzniesiona w miejscu, gdzie Budda osiągnął Oświecenie](../albums/szlakiem-noza-i-widelca/IMG_2443.JPG)

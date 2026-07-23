@@ -14,10 +14,16 @@ authors:
 draft: false
 created: 2013-10-15T15:11
 updated: 2024-08-21T17:53
+album: treking-dzien-4-chame
+image: /albums/treking-dzien-4-chame/IMG_1990.JPG
 ---
 Do Chame docieramy w miarę wcześnie, bo już o 13:15. Tempo narzucił nam z pewnością lejący się z nieba deszcz. Przemoczeni jesteśmy dokumentnie, z majtkami włącznie. Co gorsza, pod pokrowcem naszych plecaków dostała się woda i przemoczyła nam też plecaki. Głównym kryterium wyboru noclegu staje się więc piec w jadalni, a ciepły prysznic schodzi na dalszy plan. Zwłaszcza, że woda ogrzewana jest tutaj najczęściej przez solary, a słońca nie widziano tu już od dwóch dni.
 
+![Górskie szczyty spowite mgłą i deszczem w drodze do Chame](../albums/treking-dzien-4-chame/IMG_1989.JPG)
+
 Suszymy: buty, plecaki, kurtki, koszulki, spodnie i te części garderoby, które zamokły w plecakach.
+
+![Ciepła jadalnia z piecem, gdzie suszymy przemoczoną garderobę](../albums/treking-dzien-4-chame/IMG_1991.JPG)
 
 Zupka chińska made in Nepal stawia nas na nogi. Michał zamawia jeszcze tybetański chlebek i zachwycony smakiem stwierdza, że mógłby jeść takie rzeczy cały czas. Ciekawe, czy po treku nadal tak będziemy mówić. Menu schroniskowe jest dość jednorodne i zamyka się w wariacjach na temat ryżu, makaronu i ziemniaków. Za główne warzywo robi kapusta, ewentualnie z domieszką marchewki. Śniadanie to wybór między omletem a owsianką. Ceny takich rzeczy jak ser, mleko czy mięso są zabójcze.
 

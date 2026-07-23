@@ -15,7 +15,7 @@ draft: false
 created: 2013-10-11T15:11
 updated: 2024-08-21T22:29
 album: treking-dzien-0
-image: /albums/treking-dzien-0/IMG_1903.JPG
+image: /albums/treking-dzien-0/IMG_1923.JPG
 ---
 Podanie o wizy złożone, po decyzję mamy zgłosić się 17.10 a dzień później wiza powinna być gotowa do obioru. Tridev zapewnia, że na 100% dostaniemy, bo w Kathmandu wszystkim przyznają.
 
@@ -25,8 +25,14 @@ Przepakowujemy plecaki, ostronie ważąc każdą rzecz i 3 razy zastanawiając s
 
 Ruch na drodze spory, autostrada łącząca 2 główne miasta kraju to przebudowywana miejscami dwupasmówka, ze sporymi brakami w asfalcie. To będzie długa podróż.
 
+![Ruch na drodze do Beni: autobus i objuczony pikap na przebudowywanej dwupasmówce](../albums/treking-dzien-0/IMG_1909.JPG)
+
 Najbarwniejszym elementem są kolorowe mini-busiki z bagażami przywiązanymi na dachu. Czasem bagażem są kozy, zdarza się, że podróżuje tam człowiek.
 
+![Kolorowe busy z bagażami przywiązanymi na dachu — najbarwniejszy element podróży](../albums/treking-dzien-0/IMG_1910.JPG)
+
 – To musi być super miejscówka – rozmarzam się pod wpływem panującego upału podczas przerwy na zmianę koła (złapaliśmy gumę).
+
+![Przydrożne stragany z owocami podczas jednego z postojów w upale](../albums/treking-dzien-0/IMG_1917.JPG)
 
 – Taa…pod warunkiem, że z niej nie wyskoczysz na pierwszym lepszym wyboju – Michał szybko sprowadza mnie na ziemię.

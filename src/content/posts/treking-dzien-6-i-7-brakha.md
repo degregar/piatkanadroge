@@ -14,10 +14,16 @@ authors:
 draft: false
 created: 2013-10-18T15:11
 updated: 2024-08-21T17:54
+album: treking-dzien-6-i-7-brakha
+image: /albums/treking-dzien-6-i-7-brakha/IMG_2040-PANO.jpg
 ---
 Piękny dzień, zwłaszcza w porównaniu z poprzednimi. Góry odsłaniają się póki co jeszcze bardzo nieśmiało, ale już powoli dają znać o swojej wielkości. Robi się ciepło, przebieramy się więc w krótkie spodenki i ruszamy.
 
+![Chmury opadają w dolinę, a góry powoli odsłaniają swoją potęgę.](../albums/treking-dzien-6-i-7-brakha/IMG_2008.JPG)
+
 Ciągnę jeszcze Michała do klasztoru górującego nad Upper Pisang – trafiłam tam wczoraj szukając ujęcia wody. Uśmiechnięty mnich wręczył mi kubek gorącej herbaty i zaprosił do środka. Cena napoju nie jest ustalona – do puszki wrzucić można dowolny datek na rozbudowę klasztoru.
+
+![Klasztor górujący nad Upper Pisang, do którego zaprosił nas uśmiechnięty mnich.](../albums/treking-dzien-6-i-7-brakha/IMG_2007.JPG)
 
 Tablica wewnątrz budynku informuje, że klasztor powstał tyle co w miejsce starego, liczącego 600 lat kompleksu, który niestety nie nadawał się do remontu. Każda z rodzin, mieszkających w Pisangu, podarowała bądź 54 dni swojej pracy bądź ekwiwalent pieniężny, by to miejsce mogło powstać.
 
@@ -27,4 +33,8 @@ Spotykamy grupkę Polaków – znak rozpoznawczy: marudzenie.
 
 Modyfikujemy plany: odpuszczamy boczny trek z Manangu na Tilicho Tal ze względu na ryzyko lawinowe. Zamiast tego spędzamy kilka godzin w buddyjskiej gompie, obserwując ceremonialne modły, które rozpoczynają się o 8 rano, a kończą o 17. Jesteśmy częstowani kilkoma kubkami gorącej, nepalskiej herbaty z mlekiem i masłem yaka. Choć bardzo dobra w smaku, nie służy za dobrze mojemu żołądkowi.
 
+![Mnisi podczas całodziennych ceremonialnych modłów w buddyjskiej gompie.](../albums/treking-dzien-6-i-7-brakha/IMG_2048.JPG)
+
 Później spacer do położonego pół godziny drogi stąd Manangu, skąd wybieramy się na krótką wycieczkę aklimatyzacyjną do punktu widokowego na wysokości 3800 m npm. Widać stamtąd Manang, Bragę i całą dolinę, z wijącą się przez nią rzekę oraz lodowiec Gangapurny.
+
+![Widok z punktu aklimatyzacyjnego na dolinę i wijącą się przez nią rzekę.](../albums/treking-dzien-6-i-7-brakha/IMG_2072.JPG)
