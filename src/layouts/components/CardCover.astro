@@ -1,0 +1,38 @@
+---
+import { Image } from "astro:assets";
+import { BiMapAlt } from "react-icons/bi";
+
+// Okładka karty wpisu. Gdy wpis nie ma albumu/okładki, zamiast pustego miejsca
+// pokazujemy neutralny, markowy kafelek – dzięki temu listingi są spójne.
+const {
+  cover,
+  title,
+  slug,
+  width = 445,
+  height = 230,
+} = Astro.props;
+---
+
+<a
+  href={`/${slug}`}
+  class="rounded-lg block hover:text-primary overflow-hidden group"
+>
+  {
+    cover ? (
+      <Image
+        class="group-hover:scale-[1.03] transition duration-300 w-full"
+        src={cover}
+        alt={title}
+        width={width}
+        height={height}
+      />
+    ) : (
+      <div
+        class="flex w-full items-center justify-center bg-gradient-to-br from-primary to-theme-dark transition duration-300 group-hover:scale-[1.03]"
+        style={`aspect-ratio: ${width} / ${height}`}
+      >
+        <BiMapAlt className="h-12 w-12 text-white/40" />
+      </div>
+    )
+  }
+</a>

@@ -1,6 +1,8 @@
 ---
 import { Image } from "astro:assets";
+import CardCover from "@/components/CardCover.astro";
 import config from "@/config/config.json";
+import { getAlbumImage } from "@/lib/albums.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
@@ -8,6 +10,12 @@ import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 const authors = await getSinglePage("authors");
 const { summary_length } = config.settings;
 const { className, posts, fluid } = Astro.props;
+
+// Okładki z albumów są w src/content/albums (nie w public), więc trzeba je
+// rozwiązać do zoptymalizowanych assetów – surowy string dałby zepsuty <img>.
+const covers = await Promise.all(
+  posts.map((post: any) => getAlbumImage(post.data.album, post.data.image))
+);
 ---
 
 <div
@@ -16,20 +24,13 @@ const { className, posts, fluid } = Astro.props;
   {
     posts.map((post: any, i: number) => (
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
-        {post.data.image && (
-          <a
-            href={`/${post.slug}`}
-            class="rounded-lg block hover:text-primary overflow-hidden group"
-          >
-            <Image
-              class="group-hover:scale-[1.03] transition duration-300 w-full"
-              src={post.data.image}
-              alt={post.data.title}
-              width={i === 0 ? 925 : 445}
-              height={i === 0 ? 475 : 230}
-            />
-          </a>
-        )}
+        <CardCover
+          cover={covers[i]}
+          title={post.data.title}
+          slug={post.slug}
+          width={i === 0 && fluid != false ? 925 : 445}
+          height={i === 0 && fluid != false ? 475 : 230}
+        />
         <ul class="mt-6 mb-4 flex flex-wrap items-center text-text">
           <li class="mr-5">
             {authors

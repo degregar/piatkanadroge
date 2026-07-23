@@ -5,10 +5,30 @@
       "url": "/"
     },
     {
+      "name": "Kategorie",
+      "url": "/categories"
+    },
+    {
       "name": "O blogu",
       "url": "/about"
     }
   ],
   "footer": [
+    {
+      "name": "Wpisy",
+      "url": "/"
+    },
+    {
+      "name": "Kategorie",
+      "url": "/categories"
+    },
+    {
+      "name": "O blogu",
+      "url": "/about"
+    },
+    {
+      "name": "Szukaj",
+      "url": "/search"
+    }
   ]
 }

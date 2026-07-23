@@ -1,0 +1,92 @@
+---
+import { Image } from "astro:assets";
+import { getAlbumImage } from "@/lib/albums.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import { BiChevronLeft, BiChevronRight } from "react-icons/bi";
+
+const { post } = Astro.props;
+
+// Wszystkie wpisy w kolejności od najnowszego do najstarszego
+const posts = sortByDate(await getSinglePage("posts"));
+const idx = posts.findIndex((p: any) => p.slug === post.slug);
+
+// W tablicy "najnowsze first": sąsiad o indeks mniejszy jest nowszy,
+// większy – starszy. "Następny" prowadzi chronologicznie naprzód (nowszy wpis).
+const newer = idx > 0 ? posts[idx - 1] : null;
+const older = idx >= 0 && idx < posts.length - 1 ? posts[idx + 1] : null;
+
+const newerImage = newer
+  ? await getAlbumImage(newer.data.album, newer.data.image)
+  : undefined;
+const olderImage = older
+  ? await getAlbumImage(older.data.album, older.data.image)
+  : undefined;
+---
+
+{
+  (newer || older) && (
+    <nav
+      class="row gy-4 mt-4 border-t border-border pt-8"
+      aria-label="Nawigacja między wpisami"
+    >
+      {/* poprzedni (starszy) */}
+      <div class="sm:col-6">
+        {older && (
+          <a
+            href={`/${older.slug}`}
+            class="group flex h-full items-center gap-4 rounded-lg border border-border p-3 transition duration-200 hover:border-primary hover:bg-theme-light"
+          >
+            {olderImage && (
+              <Image
+                src={olderImage}
+                width={160}
+                height={120}
+                alt={older.data.title}
+                class="h-16 w-20 flex-shrink-0 rounded-md object-cover"
+              />
+            )}
+            <div class="min-w-0">
+              <span class="flex items-center text-sm font-medium text-text">
+                <BiChevronLeft className="mr-1 h-5 w-5" />
+                Poprzedni
+              </span>
+              <span class="mt-1 block font-semibold text-dark transition group-hover:text-primary line-clamp-2">
+                {older.data.title}
+              </span>
+            </div>
+          </a>
+        )}
+      </div>
+
+      {/* następny (nowszy) */}
+      <div class="sm:col-6">
+        {newer && (
+          <a
+            href={`/${newer.slug}`}
+            class="group flex h-full items-center justify-end gap-4 rounded-lg border border-border p-3 text-right transition duration-200 hover:border-primary hover:bg-theme-light"
+          >
+            <div class="min-w-0">
+              <span class="flex items-center justify-end text-sm font-medium text-text">
+                Następny
+                <BiChevronRight className="ml-1 h-5 w-5" />
+              </span>
+              <span class="mt-1 block font-semibold text-dark transition group-hover:text-primary line-clamp-2">
+                {newer.data.title}
+              </span>
+            </div>
+            {newerImage && (
+              <Image
+                src={newerImage}
+                width={160}
+                height={120}
+                alt={newer.data.title}
+                class="h-16 w-20 flex-shrink-0 rounded-md object-cover"
+              />
+            )}
+          </a>
+        )}
+      </div>
+    </nav>
+  )
+}

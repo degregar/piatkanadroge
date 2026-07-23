@@ -1,10 +1,13 @@
-// sort by date
+// sort by date (najnowsze first); przy identycznej dacie – stabilnie po slug,
+// żeby kolejność (i nawigacja poprzedni/następny) była deterministyczna.
 export const sortByDate = (array: any[]) => {
-  const sortedArray = array.sort(
-    (a:any, b:any) =>
-      new Date(b.data.date && b.data.date) -
-      new Date(a.data.date && a.data.date)
-  );
+  const sortedArray = array.sort((a: any, b: any) => {
+    const diff =
+      new Date(b.data.date && b.data.date).valueOf() -
+      new Date(a.data.date && a.data.date).valueOf();
+    if (diff !== 0) return diff;
+    return String(a.slug).localeCompare(String(b.slug));
+  });
   return sortedArray;
 };
 
