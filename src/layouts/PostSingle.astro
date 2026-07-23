@@ -18,7 +18,7 @@ const { Content } = await post.render();
 const { title, description, authors, categories, image, date, tags, album } =
   post.data;
 
-const albumImage = getAlbumImage(album, image);
+const albumImage = await getAlbumImage(album, image);
 ---
 
 <section class="section">
